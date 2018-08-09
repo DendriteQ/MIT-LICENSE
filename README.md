@@ -1,4 +1,5 @@
 # pos-neg
-# left crop # scale 
-# schreenshot #saturation 
+# left crop 
+# scale 
+#saturation 
 #BRIGHTNESS
