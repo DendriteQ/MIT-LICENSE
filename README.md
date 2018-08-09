@@ -1,2 +1,4 @@
-# pos-neg-motive
-# left crop # scale # schreenshot #saturation # multiply motive
+# pos-neg
+# left crop # scale 
+# schreenshot #saturation 
+#BRIGHTNESS
